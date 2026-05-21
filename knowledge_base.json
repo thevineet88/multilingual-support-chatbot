@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order by logging into your account and visiting the 'My Orders' section. Click on the order number to see real-time tracking updates including shipping carrier and estimated delivery date."
+  },
+  {
+    "question": "Mera order kahan hai?",
+    "answer": "Aap apne order ko track karne ke liye apne account mein login karein aur 'My Orders' section mein jaayein. Order number par click karke aap real-time tracking updates dekh sakte hain."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel your order within 24 hours of placing it. Go to 'My Orders', select the order, and click 'Cancel Order'. If the order has already been shipped, you will need to initiate a return instead."
+  },
+  {
+    "question": "Mera order cancel kaise karein?",
+    "answer": "Aap apna order 24 ghante ke andar cancel kar sakte hain. 'My Orders' mein jaayein, order select karein aur 'Cancel Order' par click karein. Agar order ship ho chuka hai toh return initiate karna hoga."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for most items. Products must be unused, in original packaging, and with tags attached. Certain categories like innerwear and perishable goods are not eligible for returns."
+  },
+  {
+    "question": "Return policy kya hai?",
+    "answer": "Hum 30 din ki return policy dete hain. Products unused hone chahiye, original packaging mein hone chahiye aur tags attached hone chahiye. Innerwear aur perishable goods return ke liye eligible nahi hain."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refunds are processed within 5-7 business days after we receive the returned item. The amount will be credited to your original payment method. For UPI payments, refunds may take an additional 2-3 days."
+  },
+  {
+    "question": "Refund kitne din mein aata hai?",
+    "answer": "Returned item milne ke baad refund 5-7 business days mein process hota hai. Amount aapke original payment method mein credit hoga. UPI payments ke liye 2-3 din extra lag sakte hain."
+  },
+  {
+    "question": "My payment failed but money was deducted. What should I do?",
+    "answer": "If your payment was deducted but the order was not placed, the amount will be automatically refunded within 48-72 hours. If you don't receive the refund, please contact our support team with your transaction ID."
+  },
+  {
+    "question": "Payment fail ho gaya lekin paise kat gaye. Kya karein?",
+    "answer": "Agar payment deduct ho gaya lekin order place nahi hua, toh amount 48-72 ghante mein automatically refund ho jaayega. Agar refund nahi aata toh apne transaction ID ke saath humse contact karein."
+  },
+  {
+    "question": "Why is my delivery delayed?",
+    "answer": "Delivery delays can occur due to high demand, weather conditions, or logistics issues. You can check the updated delivery date in your order tracking page. If the delay exceeds 7 days beyond the estimated date, please reach out to us for assistance."
+  },
+  {
+    "question": "Meri delivery late kyun ho rahi hai?",
+    "answer": "Delivery mein delay high demand, weather conditions ya logistics issues ki wajah se ho sakta hai. Aap updated delivery date order tracking page par dekh sakte hain. Agar delay 7 din se zyada ho toh humse contact karein."
+  },
+  {
+    "question": "I forgot my password. How do I reset it?",
+    "answer": "Click on 'Forgot Password' on the login page. Enter your registered email address and we'll send you a password reset link. The link is valid for 30 minutes. Check your spam folder if you don't see the email."
+  },
+  {
+    "question": "Password bhool gaya. Kaise reset karein?",
+    "answer": "Login page par 'Forgot Password' par click karein. Apna registered email daalein aur hum aapko password reset link bhejenge. Link 30 minute tak valid hai. Agar email nahi dikhe toh spam folder check karein."
+  },
+  {
+    "question": "How do I change my shipping address?",
+    "answer": "You can update your shipping address before the order is shipped. Go to 'My Orders', select the order, and click 'Edit Address'. Once the order is dispatched, the address cannot be changed."
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Cash on Delivery (COD) is available for orders up to Rs. 5,000 in most serviceable pin codes. COD availability depends on the delivery location and product category. A small COD fee of Rs. 40 may apply."
+  },
+  {
+    "question": "COD available hai kya?",
+    "answer": "Cash on Delivery Rs. 5,000 tak ke orders ke liye available hai most pin codes mein. COD availability delivery location aur product category par depend karta hai. Rs. 40 ka COD charge lag sakta hai."
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "On the checkout page, you'll find a 'Apply Coupon' field. Enter your coupon code and click 'Apply'. The discount will be reflected in the order total. Only one coupon can be used per order."
+  },
+  {
+    "question": "Can I exchange a product instead of returning it?",
+    "answer": "Yes, exchanges are available for size and color variants of the same product. Initiate an exchange from 'My Orders' within 30 days of delivery. The replacement will be shipped after we receive the original item."
+  },
+  {
+    "question": "Product exchange kaise karein?",
+    "answer": "Haan, same product ke size aur color variants ke liye exchange available hai. 'My Orders' se 30 din ke andar exchange initiate karein. Original item milne ke baad replacement ship hoga."
+  },
+  {
+    "question": "Is a product available in my size?",
+    "answer": "Product availability varies by size and location. On the product page, select your size to check availability. If a size is out of stock, you can click 'Notify Me' to get an alert when it's back in stock."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Currently, we ship to India, USA, UK, Canada, and UAE. International orders may take 10-15 business days for delivery. Import duties and taxes are the responsibility of the buyer."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach us via live chat on our website, email at support@store.com, or call our helpline at 1800-XXX-XXXX (toll-free, 9 AM to 9 PM IST). Our average response time is under 2 hours."
+  },
+  {
+    "question": "Customer support se kaise contact karein?",
+    "answer": "Aap humse website par live chat, email support@store.com, ya toll-free number 1800-XXX-XXXX (9 AM to 9 PM IST) par contact kar sakte hain. Humara average response time 2 ghante se kam hai."
+  },
+  {
+    "question": "My account got locked. What should I do?",
+    "answer": "Accounts are locked after 5 incorrect login attempts for security. Wait 30 minutes and try again, or reset your password. If the issue persists, contact support with your registered email for manual unlock."
+  }
+]

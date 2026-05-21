@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Node modules (used for presentation generation)
+node_modules/
+package.json
+package-lock.json
+
+# Presentation and report files
+*.pptx
+*.pdf
+create_presentation.js
+generate_reports.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
